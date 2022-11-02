@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("img/bg.png");
+    background-size: 100%;
+    background-position: center;
+}
+.toptext1{
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 5%;
+    width: 80%;
+    font-size: 40px;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #8ea4ff;
+    line-height: 0.5;
+}
+.toptext2{
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 5%;
+    width: 80%;
+    font-size: 30px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #8ea4ff;
+    line-height: 1;
+}
+.info1{
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 5%;
+    width: 80%;
+    font-size: 25px;
+    line-height: 0.5;
+}
+.info2{
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 7%;
+    width: 80%;
+    font-size: 20px;
+    line-height: 0.5;
+}
+
+.info3{
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 9%;
+    width: 80%;
+    font-size: 15px;
+    line-height: 0.5;
+}
+footer {
+    background-color: #2f3b5b;
+    font-family: 'Open Sans', sans-serif;
+    color: whitesmoke;
+    margin: 0;
+    width: 100%;
+    font-size: 10px;
+    position: fixed;
+    bottom: 0;
+}
+footer.p {
+    background-color: #2f3b5b;
+    font-family: 'Open Sans', sans-serif;
+    color: whitesmoke;
+    width: 50%;
+    margin-left: 5%;
+    font-size: 10%;
+}
+
